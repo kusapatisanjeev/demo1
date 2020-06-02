@@ -64,4 +64,5 @@ public String getPincode() {
 public void setPincode(String pincode) {
 	this.pincode = pincode;
 }
+//sanjeev
 }
